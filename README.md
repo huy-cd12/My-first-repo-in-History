@@ -1,6 +1,6 @@
 # My-first-repo-in-History
 
-## First day
+## 27/5/2026
 1. Set up Github
 2. set up Git
 3. Learn Git, Github
